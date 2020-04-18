@@ -1,4 +1,4 @@
-Welcome to Django Kong's documentation!
+Welcome to User Manul UISI documentation!
 =======================================
 
 A simple example
