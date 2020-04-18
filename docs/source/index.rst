@@ -1,4 +1,4 @@
-Welcome to User Manul UISI documentation!
+Welcome to User Manual UISI documentation!
 =======================================
 
 A simple example
