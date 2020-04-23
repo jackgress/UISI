@@ -1,2 +1,0 @@
-# UISI
-User Manual UISI
